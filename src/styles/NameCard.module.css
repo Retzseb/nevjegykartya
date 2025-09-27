@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    border: 1px solid gainsboro;
+    padding: 12px;
+    border-radius: 20px;
+    align-items: center;
+    gap: 12px;
+    max-width: 500px;
+}
+
+.container img {
+    border-radius: 50%;
+}
+
+.container span{
+    font-weight: 600;
+}
+
+.called {
+    text-decoration: line-through;
+}
+
+.called {
+    opacity: .5;
+}
